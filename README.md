@@ -19,6 +19,6 @@ The task is to build a model that will predict the price of a house based on fea
 - **Sqft_living15**: the average house square footage of the 15 closest houses.*
 - **Sqft_lot15**: the average lot square footage of the 15 closest houses.*
 
-* The explanation for these two variables redefined as the old definition did not make sense.
+-----Note*: The explanation for these two variables redefined as the old definition did not make sense.
 
  
