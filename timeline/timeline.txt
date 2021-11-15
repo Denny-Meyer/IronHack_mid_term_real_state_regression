@@ -1,0 +1,18 @@
+Prework from weekend:
+
+- getting familiar with the project, tasks and findings
+
+Day 1:
+- data cleaning (Srini, Denny)
+
+Day 2:
+- model fitting and fine tuning (Srini, Denny)
+
+Day 3:
+- discuss results and start data visualisation (Powerpoint or Tableau)
+
+Day 4:  
+- finalise presentation and practise speech
+
+Day 5:
+- final presentation
