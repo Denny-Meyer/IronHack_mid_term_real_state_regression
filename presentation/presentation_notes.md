@@ -8,22 +8,22 @@ How to get a better price for a given property?
 
 What impacts the prices?
 Does the below features impact the price:
-waterfront-Denny
-Location-Denny
-Grade-Denny
-condition-Denny
-year built-Srini
-sqft living-Srini
-year_renovated-Srini
-seasonality (which months have higher sales and better prices?)-Srini
+- waterfront-Denny
+- Location-Denny
+- Grade-Denny
+- condition-Denny
+- year built-Srini
+- sqft living-Srini
+- year_renovated-Srini
+- seasonality (which months have higher sales and better prices?)-Srini
 
 
- findings:
- Based on the regression model with the R2 of 0.86, we conclude that the below features drives the price in the
-
-
-
-- map avg_price, location
+ >findings:
+ >
+ >Based on the regression model with the R2 of 0.86, we conclude that the below features drives the 
+ >
+ >price in the
+>- map avg_price, location
 
 Options to showcase a house prediction:
 1. Jy Notebook calculation. Input and output in the same file or notebook
