@@ -19,7 +19,8 @@ seasonality (which months have higher sales and better prices?)-Srini
 
 
  findings:
- Based on the regression model with the R2 of 0.86, we conclude that the below features drives the price
+ Based on the regression model with the R2 of 0.86, we conclude that the below features drives the price in the
+
 
 
 - map avg_price, location
